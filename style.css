@@ -1,0 +1,16 @@
+body{
+
+    background-image: url("https://previews.123rf.com/images/kdshutterman/kdshutterman1801/kdshutterman180100031/93745658-serenity-landscape-of-beautiful-feather-pennisetum-glowing-against-sky-with-sunlight-as-nature-backg.jpg");
+    color: #fff;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px;
+}
+ 
+#contentbox {
+    background: grey;
+    opacity: .9;
+
+}
